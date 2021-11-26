@@ -44,3 +44,10 @@
 
 [1]:http://www.github.com "GitHub官网"
 [2]:http://www.git-scm.com/downloads "Git下载"
+
+文章中插入配图
+
+本地图片插入
+
+![配图](C:/Users/赵新宇/Desktop/测试图片.jpg"图片标题") 
+
