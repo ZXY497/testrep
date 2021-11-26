@@ -49,5 +49,6 @@
 
 本地图片插入
 
-![配图](C:/Users/赵新宇/Desktop/测试图片.jpg"图片标题") 
+![测试图片](C:/Users/赵新宇/Desktop/测试图片.jpg"图片标题") 
+![测试图片.jpg](https://i.loli.net/2021/11/26/J6s9DFxNbQqwOzZ.png)
 
